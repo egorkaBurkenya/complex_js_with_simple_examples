@@ -1,6 +1,20 @@
 # Complex javaScript with simple examples
-Не много практических примеров сложного JavaScript
+## Простые примеры, сложного JavaScript `ㄟ( ▔, ▔ )ㄏ`
 
-* Сделать ветки для уроков с коспектом по теме
-* по завершению сделать главный README.MD
+Речь пойдет о браузерном `JavaScript`, о его особеностях и разбор сложных, но таких базовых функциях языка.
+***
+В каждой теме вы будете видеть 3 файла:
+* **index.html** - обычный, пустой html файлик, в котором мы подключаем наш скрипт
+* **main.js** - Сам скрипт, и все примеры кода, будут находиться именно в нем
+* **README.md** - Полный разбор темы, с реальными примерами и попунктам разложенной информацией 
+
+Для переключения по темам вы можете либо менять ветки репозетория 
+
+Либо можете воспользоваться огловлением !
+
+## Оглавление:
+* [main](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/main) - Домашняя страница ! 
+* [prototype](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/prototype) - разбор базового, но не понятного объекта `prototype`
+* [this](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/this) - самая сложно и одновременно самая простая тема в javaScript: контекст `this` и методы `bind`, `call`, `apply`
+
 
