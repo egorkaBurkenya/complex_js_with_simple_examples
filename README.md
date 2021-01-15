@@ -16,5 +16,5 @@
 * [main](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/main) - Домашняя страница ! 
 * [prototype](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/prototype) - разбор базового, но не понятного объекта `prototype`
 * [this](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/this) - самая сложно и одновременно самая простая тема в javaScript: контекст `this` и методы `bind`, `call`, `apply`
-
+* [circuit](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/circuit) - замыкания, простым языком
 
