@@ -85,15 +85,15 @@ ________________________________________________
 let elem = tag => className => text => `<${tag} class=${className}>${text}</${tag}>` 
 
 let div = elem("div")
-let conteiner = div("conteiner")
+let container = div("container")
 
-console.log("теперь класс, так же добавлен в элемент - " + conteiner )
+console.log("теперь класс, так же добавлен в элемент - " + container )
 
-console.log("и теперь нам осталось, положить только контент - " + conteiner("Some content"))
+console.log("и теперь нам осталось, положить только контент - " + container("Some content"))
 ________________________________________________
 >> теперь класс, так же добавлен в элемент - text => `<${tag} class=${className}>${text}</${tag}>`
 
->> и теперь нам осталось, положить только контент - `<div class="conteiner">Some content</div>`
+>> и теперь нам осталось, положить только контент - `<div class="container">Some content</div>`
 ```
 
 # [Практическое приминение](https://github.com/egorkaBurkenya/complex_js_with_simple_examples/tree/main/currying/example)
